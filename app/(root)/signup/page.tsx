@@ -4,6 +4,7 @@ import Signup from '../../../components/atoms/Signup';
 function SignupPage() {
   return (
     <Signup/>
+   
   )
 }
 

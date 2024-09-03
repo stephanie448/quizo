@@ -1,10 +1,10 @@
 import Login from '@/components/atoms/Login'
 import React from 'react'
 
-const Page = () => {
+const page = () => {
   return (
    <Login />
   )
 }
 
-export default Page
+export default page
